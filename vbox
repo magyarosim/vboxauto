@@ -72,7 +72,7 @@ audio="none"
 ###                                                                 ###
 #######################################################################
  
-hddfile=~ivansandorzsolt/VirtualBox VMs.vdi/${vmname}.vdi
+hddfile=~magyarosim/VirtualBox VMs.vdi/${vmname}.vdi
 clear
  
 # Create the VM
